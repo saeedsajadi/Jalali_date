@@ -1,0 +1,11 @@
+{
+    "name": "jalali_date/jalali_date",
+    "description": "jalali date for all purpose and codeigniter library to convert gregorian date to jalali date and reverse (jalali date to gregorian date)",
+    "authors": [
+        {
+            "name": "saeed sajadi",
+            "email": "smart_twists@yahoo.co.uk"
+        }
+    ],
+    "require": {}
+}
